@@ -1,0 +1,6 @@
+{
+  "name": "Solana AI Trading Platform",
+  "description": "Professional Solana AI Trading Terminal featuring real-time launchpad tracking, automated sniping, and deep AI-driven risk scoring for new assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
